@@ -1,6 +1,6 @@
-driver=C:/Users/Omer/Desktop/Proxy/geckodriver.exe
-matrix=C:/Users/Omer/Desktop/Proxy/MatrixHandler/matrix.txt
-videos=C:/Users/Omer/Desktop/Proxy/Videos/videos.txt
-proxy_matrix=C:/Users/Omer/Desktop/Proxy/MatrixHandler/proxy_matrix.txt
-video_matrix=C:/Users/Omer/Desktop/Proxy/MatrixHandler/video_matrix.txt
-proxies=C:/Users/Omer/Desktop/Proxy/Proxies/proxies.txt
+driver=/Proxy/geckodriver.exe
+matrix=/Proxy/MatrixHandler/matrix.txt
+videos=/Proxy/Videos/videos.txt
+proxy_matrix=/Proxy/MatrixHandler/proxy_matrix.txt
+video_matrix=/Proxy/MatrixHandler/video_matrix.txt
+proxies=/Proxy/Proxies/proxies.txt
