@@ -1,4 +1,4 @@
-video_file = "C:/Users/Omer/Desktop/Proxy/Videos/videos.txt"
+video_file = "/Proxy/Videos/videos.txt"
 
 
 class VideoGetMain:
